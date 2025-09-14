@@ -6,4 +6,3 @@ export default defineConfig({
   base: "/", // root for custom domain
   plugins: [vue()],
 });``
-

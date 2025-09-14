@@ -7,3 +7,8 @@ export default defineConfig({
   plugins: [vue()],
 });``
 
+export default {
+  server: {
+    host: true
+  }
+}

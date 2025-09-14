@@ -9,7 +9,7 @@
         alt="alecgarnica.com photo"
       />
       <div class="overlay">
-        <h1 id="header" class="gothic-a1-regular">
+        <h1 id="" class="gothic-a1-regular">
           ALEC GARNICA <br />
           MIXER/ENGINEER/PRODUCER
         </h1>

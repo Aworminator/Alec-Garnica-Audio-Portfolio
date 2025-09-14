@@ -420,22 +420,9 @@ h4 {
     object-fit: cover;
   }
 
-  .front-shot {
-    padding: 15px;
-  }
-
   .about-me {
     min-height: 1100px;
     padding: 20px 0px 20px 0px;
-  }
-
-  #header {
-    font-size: 2em;
-    overflow-wrap: break-word;
-    word-break: break-word;
-    hyphens: auto;
-    max-width: 100vw;
-    box-sizing: border-box;
   }
 
   .about-info {
@@ -482,6 +469,8 @@ h4 {
     flex-direction: row;
     justify-content: space-around;
   }
+
+  
 
   .videos {
     display: flex;
